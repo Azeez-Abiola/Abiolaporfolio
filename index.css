@@ -870,18 +870,18 @@ footer {
     color:white;
 }
 .dot {
-    color: #e3e6f0;
+    color:blue;
     animation: tayun 5s ease-out infinite;
     animation-delay: 2s;
 }
 @keyframes tayun {
     0%, 100% {
-        color: #e3e6f0;
+        color: blue;
         position: relative;
         left: 0;
     }
     50% {
-        color: #5dedcd;
+        color:blue;
         position: relative;
         left: 100px;
     }
@@ -1824,12 +1824,12 @@ footer {
     }
     @keyframes tayun {
         0%, 100% {
-            color: #e3e6f0;
+            color: blue;
             position: relative;
             left: 0;
         }
         50% {
-            color: #5dedcd;
+            color: blue;
             position: relative;
             left: 50px;
         }
